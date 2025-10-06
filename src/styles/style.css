@@ -231,6 +231,8 @@ article h2 {
     border-radius: 8px;
 }
 
+
+/* Rodapé */
 footer{
     background-color: var(--destaque);
     color: var(--texto-inverso);
